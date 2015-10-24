@@ -1,0 +1,8 @@
+*** Swayze Changelog ***
+	
+2013.11.14 - version 1.0
+ * First release!
+
+2014.01.06 - version 1.0.1
+ * default.hbs - Added viewport meta tag, theme version meta tag
+ * changelog.txt - Added
