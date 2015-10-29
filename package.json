@@ -22,7 +22,7 @@
     "test": "grunt validate --verbose"
   },
   "engines": {
-    "node": ">=4.0.0"
+    "node": "4.2.1"
   },
   "dependencies": {
     "bcryptjs": "2.1.0",
